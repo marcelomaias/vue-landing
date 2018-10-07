@@ -1,0 +1,20 @@
+[{
+    "image": "require('../assets/servico1.jpg')",
+   "title": "'Service One'",
+    "subtitle": "'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque necessitatibus aspernatur explicabo voluptas.'"
+  },
+  {
+    "image": "require('../assets/servico2.jpg')",
+   "title": "'Service Two'",
+    "subtitle": "'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque necessitatibus aspernatur explicabo voluptas.'"
+  },
+  {
+    "image": "require('../assets/servico3.jpg')",
+   "title": "'Service Three'",
+    "subtitle": "'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque necessitatibus aspernatur explicabo voluptas.'"
+  },
+  {
+    "image": "require('../assets/servico4.jpg')",
+   "title": "'Service Four'",
+    "subtitle": "'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque necessitatibus aspernatur explicabo voluptas.'"
+  }]

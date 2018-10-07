@@ -1,8 +1,9 @@
 <template>
-  <v-parallax dark src="https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg" height="600">
-    <v-layout align-center column justify-center>
-      <h1 class="display-2 font-weight-thin mb-3">Vuetify.js</h1>
-      <h4 class="subheading">Build your application today!</h4>
+  <v-parallax src="../assets/bluey.jpg" height="600">
+    <v-layout align-center column justify-center black--text>
+      <div class="text-uppercase">Agency / Corporate / Freelancer / Portfolio</div>
+      <h1 class="display-3 text-uppercase font-weight-black my-2 titleAnim">Make things Happen</h1>
+      <v-btn large dark href="#what">Learn More</v-btn>
     </v-layout>
   </v-parallax>
 </template>
